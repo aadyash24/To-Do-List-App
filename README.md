@@ -1,6 +1,6 @@
 # Python To-Do List Application
 
-A modern and aesthetic desktop To-Do List application built with Python and Tkinter. This application helps you manage your tasks efficiently with features like task prioritization, completion tracking, and persistent storage.
+A desktop To-Do List application built with Python and Tkinter. This application helps you manage your tasks efficiently with features like task prioritization, completion tracking, and persistent storage.
 
 ## Features
 
