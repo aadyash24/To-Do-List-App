@@ -22,8 +22,8 @@ A modern and aesthetic desktop To-Do List application built with Python and Tkin
 ## How to Run
 
 1.  **Prerequisites:**
-    * Python 3.x installed on your system.
-    * Tkinter (usually comes with Python standard installations. If not, you might need to install it separately, e.g., `sudo apt-get install python3-tk` on Debian/Ubuntu).
+    * Python 3 installed on your system.
+    * Tkinter (usually comes with Python standard installations. If not, you might need to install it separately, e.g., `sudo apt-get install python3-tk`).
 
 2.  **Clone the repository (or download the Python file):**
     ```bash
